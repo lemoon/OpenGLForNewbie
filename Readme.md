@@ -1,1 +1,1 @@
-**A lists of document of OpenGL learning**
+**A lists of document for OpenGL learning**
